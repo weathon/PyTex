@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.10.15)  15 OCT 2022 06:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.10.15)  15 OCT 2022 06:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -249,34 +249,37 @@ LaTeX Font Info:    ... okay on input line 6.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 8.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 14.
+
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 8.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 14.
+
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+)
+! Missing $ inserted.
+<inserted text> 
+                $
+l.17      }
+           \\
+? 
+! Emergency stop.
+<inserted text> 
+                $
+l.17      }
+           \\
+End of file on the terminal!
 
-{/usr/share/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./tmp.aux) 
-) 
+ 
 Here is how much of TeX's memory you used:
- 2236 strings out of 480806
- 30072 string characters out of 5905150
- 322041 words of memory out of 6000000
- 19636 multiletter control sequences out of 15000+600000
- 408075 words of font info for 45 fonts, out of 8000000 for 9000
+ 2221 strings out of 480806
+ 29968 string characters out of 5905150
+ 321050 words of memory out of 6000000
+ 19631 multiletter control sequences out of 15000+600000
+ 406941 words of font info for 41 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 55i,7n,62p,219b,148s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on tmp.pdf (1 page, 29850 bytes).
-PDF statistics:
- 24 PDF objects out of 1000 (max. 8388607)
- 16 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 55i,8n,62p,219b,195s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
